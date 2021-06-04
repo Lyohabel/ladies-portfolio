@@ -50,10 +50,6 @@ function App() {
           <Route path='/product'>
             <Product setCartCount={setCartCount}/>
           </Route>
-
-          {/* <Route path='/search'>
-            <SearchProduct setCartCount={setCartCount}/>
-          </Route> */}
             
         </Switch>
         </div>

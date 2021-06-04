@@ -4,7 +4,7 @@ import {NavLink} from 'react-router-dom'
 import add from "../../../images/e-add.png"
 
 function Product({setCartCount}) {
-  const {products} = useContext(AppContext)
+  const {products} = useContext(AppContext)  
 
   if (!localStorage.getItem('cart')) localStorage.setItem('cart', ['xxx'])  
   const[cart, setCart] = useState(localStorage.getItem('cart').split(','))  

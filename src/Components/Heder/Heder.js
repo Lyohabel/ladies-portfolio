@@ -33,7 +33,7 @@ function Header({cartCount}) {
         )
       })
     setProdLinks(prodLinks1); 
-    }// <NavLink to={"/search/" + product.index} onClick={deleteLink}> - то же самое
+    }
   }
 
   return (    

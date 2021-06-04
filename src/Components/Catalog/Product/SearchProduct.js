@@ -5,7 +5,7 @@ import add from "../../../images/e-add.png"
 
 
 function SearchProduct({setCartCount}) {
-  const {products} = useContext(AppContext)
+  const {products} = useContext(AppContext)  
 
   if (!localStorage.getItem('cart')) localStorage.setItem('cart', ['xxx'])  
   const[cart, setCart] = useState(localStorage.getItem('cart').split(','))  
