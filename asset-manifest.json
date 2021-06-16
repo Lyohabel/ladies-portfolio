@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ladies-portfolio/static/css/main.320964c0.chunk.css",
+    "main.js": "/ladies-portfolio/static/js/main.39ef06c8.chunk.js",
+    "main.js.map": "/ladies-portfolio/static/js/main.39ef06c8.chunk.js.map",
+    "runtime-main.js": "/ladies-portfolio/static/js/runtime-main.e5f1e7bc.js",
+    "runtime-main.js.map": "/ladies-portfolio/static/js/runtime-main.e5f1e7bc.js.map",
+    "static/js/2.7e28448d.chunk.js": "/ladies-portfolio/static/js/2.7e28448d.chunk.js",
+    "static/js/2.7e28448d.chunk.js.map": "/ladies-portfolio/static/js/2.7e28448d.chunk.js.map",
+    "index.html": "/ladies-portfolio/index.html",
+    "static/css/main.320964c0.chunk.css.map": "/ladies-portfolio/static/css/main.320964c0.chunk.css.map",
+    "static/js/2.7e28448d.chunk.js.LICENSE.txt": "/ladies-portfolio/static/js/2.7e28448d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ladies-portfolio/static/media/bg.771bb726.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5f1e7bc.js",
+    "static/js/2.7e28448d.chunk.js",
+    "static/css/main.320964c0.chunk.css",
+    "static/js/main.39ef06c8.chunk.js"
+  ]
+}
